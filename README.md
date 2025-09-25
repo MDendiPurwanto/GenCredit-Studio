@@ -4,10 +4,10 @@ POC sederhana untuk memanggil endpoint credit-spend lalu melanjutkan ke generato
 
 ## Setup
 
-1. Salin `.env.example` ke `.env` lalu isi kunci:
+1. Salin `.env.example` ke `.env` lalu isi kunci API KEY MAYAR:
 
 ```
-VITE_API_KEY=your_api_key_here
+VITE_API_KEY=your_api_key_here_MAYAR
 ```
 
 2. Install dependencies dan jalankan dev server:
